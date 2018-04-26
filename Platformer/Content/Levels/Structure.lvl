@@ -1,0 +1,16 @@
+Player
+Block
+Spike
+Wall
+Rope
+TrapDoor
+Trampoline
+VerticalMovingPlatform
+HorizontalMovingPlatform
+PowerUpContainer
+Turret
+Enemy
+JumpingEnemy
+ShootingEnemy (TODO)
+Goal
+LevelSize (Camera)
